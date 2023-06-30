@@ -66,7 +66,7 @@ Here is an example of element relations:
 
 ## Review CSS Basics
 
-Cascading Style Sheets, or CSS, is a language created to style HTML documents by
+Cascading/flow from one element to another/ Style Sheets, or CSS, is a language created to style HTML documents by
 telling the browser how specific elements should look. CSS does this by
 selecting elements based on their tag, ids, classes, or all of the above. The
 reason for CSS is the separation of concerns. We want HTML to focus on the
